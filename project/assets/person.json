@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "firstName" : "Pavan",
+  "lastName" : "Kumar",
+  "email" : "pavan@gmail.com",
+  "birth_date" : "2018-12-10"
+}, {
+  "id" : 2,
+  "firstName" : "Janam",
+  "lastName" : "Sai",
+  "email" : "sai@gmail.com",
+  "birth_date" : "2018-12-10"
+}, {
+  "id" : 3,
+  "firstName" : "hrmanth",
+  "lastName" : "k",
+  "email" : "hemanth@gmail.com",
+  "birth_date" : "2018-12-10"
+} ]
